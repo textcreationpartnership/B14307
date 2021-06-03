@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Iury of inquisition de jure divino whether by divine right it is lawfull to inflict punishment upon the offending lordly bishops, yea or no.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14307</idno><idno type="EEBO-CITATION">34387104</idno>
+  <idno type="VID">176976</idno>
+  <idno type="EEBO-PROQUEST">2248547407</idno>
+  <idno type="STC">STC 14861a.5</idno>
+  <idno type="STC">ESTC S106590</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176976)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 737:7 or 1899:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Iury of inquisition de jure divino whether by divine right it is lawfull to inflict punishment upon the offending lordly bishops, yea or no.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the yeere, That Sea-Coale was exceeding deare.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printed by Eliot's Court Press. Cf. STC (2nd ed.).</note>
+                  <note>Signatures: A4.</note>
+                  <note>Item at reel 737:7 identified as STC 14861b.</note>
+                  <note>Reproductions of originals in the Folger Shakespeare Library and British Library.</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Bishops --  Controversial literature.</term>
+               <term type="topical_term">Church and state --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  Puritan Revolution, 1642-1660.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176976:1"/>
+            <p>THE IURY OF INQUISITION <hi>De Jure Divino.</hi>
+            </p>
+            <p>Whether by Divine Right it is lawfull to inflict Punishment upon the offending Lordly Bishops yea, or no.</p>
+            <p>Printed in the yeere, That Sea-Coale was exceeding deare. 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176976:2"/>
+            <pb facs="tcp:176976:2"/>
+            <head>THE JURY OF INQVISITION <hi>DE JƲRE DIVINO.</hi>
+            </head>
+            <head type="sub">Whether by Divine Right it is lawfull to inflict punishment upon the offending Lordly Bishops; yea, or no.</head>
+            <p>
+               <hi>They who being within the Church, have offended against Faith and discipline; let them knew the rigour of Princes: and let the Princes power establish that discipline, which the distressed Church is not able to execute upon the neckes of the proud. Saith</hi> Isido<g ref="char:EOLhyphen"/>rus, <hi>in his booke of Authority and care of Kings.</hi>
+            </p>
+            <p>TO inflict punishment upon the offending Lord Bishops is no un<g ref="char:EOLhyphen"/>holy thing, but is a thing both lawfull, just, and right.</p>
+            <p>
+               <note place="margin">Argument.</note>
+               <label>The Argument.</label> TO inflict punishment upon evill doers is no unholy thing; But the troublers of the Church and State are evill doers; therefore Lordly Bishops being troublers of the Church and State; it must needs appeare that they are evill doers.
+<note place="margin">Conclusion.</note>And so it must needes of consequence follow, that to inflict punishment upon offending Lordly Bishops it is no unholy thing, but lawfull, just, and right.</p>
+            <p>
+               <note n="1" place="margin">1.</note>To prove that it is lawfull to punish evill doers, Saint <hi>Peter</hi> saith, That we ought to submit our selves to the King, &amp; to the Governors set over us by him for the punishment of evill doers, 1 <hi>Pet.</hi> 2.13 14.
+<pb n="2" facs="tcp:176976:3"/>And Saint <hi>Paul</hi> saith, if thou doe that which is evill be affraid for he beareth not the sword in vaine; for he is a minister of God, and a re<g ref="char:EOLhyphen"/>venger to execute wrath upon that man that doth evill, <hi>Rom.</hi> 13.4.</p>
+            <p>
+               <note n="2" place="margin">2.</note> To prove that the troublers of the Church and State are evill do<g ref="char:EOLhyphen"/>ers. The Prophet <hi>Ieremie</hi> saith, that the Lord is against them that pro<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esie false dreames, and do tell them, and cause the people to erre by their lies, and by their lightnesse, as it is <hi>Ieremiah</hi> 23.32. And how have our Lordly Bishops and Prelates prophesied false dreames, and endeavored to corrupt the Church with errours; &amp; by their lyes and lightnesse troubled the whole Land: nay, all the Kings Dominions, from consideration whereof, that saying of <hi>Constantine</hi> is no more but justice?<note place="margin">Theodoretus. Booke 1. cap. 20.</note>If the Bishops (saith hee) move troubles, by my hand they shall be punished, for my hand is the hand of Gods Minister.</p>
+            <p>
+               <note place="margin">The office of a Bishop.</note>The office of a Bishop is to teach the people truth; and to instruct them in the wayes of peace and love; Therefore our Lordly Bishops who have set up lies and falshoods instead of Truths, and have moved troubles in stead of peace and love? have much abused that holy of<g ref="char:EOLhyphen"/>fice unto which they pretend they are called.</p>
+            <p>
+               <note place="margin">Rason.</note>The reason (why to inflict punishment upon the offending Lordly Bishops is no unholy thing) is plaine: Because the Lordly Bishops are movers of troubles in the Church and State.</p>
+            <p n="1">
+               <note n="1" place="margin">1. How they have troubled the Church.</note>1. They have been movers of troubles in the Church, both by their establishing of the Popish Ceremonies; and by their Lordly Govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>By their establishing of Popish Ceremonies; by binding the consci<g ref="char:EOLhyphen"/>ences of men to the observance of them: as setting up of Altars, Ima<g ref="char:EOLhyphen"/>ges, and Crusifixes, wearing of Surpluses, bowings, Chringings and the like: Of which Saint <hi>Paul</hi> warned the <hi>Colossians</hi> to take heed of, saying, beware least any man spoyle you through Philosophy and vaine deceit, after the tradition of men, after the rudiments of the world,<note place="margin">4. Bookes of Virgins.</note>and not after Christ. And Saint <hi>Ambrose</hi> saith, that by good right, we are to condemne all new things that Christ hath not taught, even all such things saith he, and to be judged detestable, and to be de<g ref="char:EOLhyphen"/>fied.</p>
+            <p>
+               <note n="2" place="margin">2.</note>By their Lordly government, in silensing and punishing holy Mini<g ref="char:EOLhyphen"/>sters, and neglecting and passing by the too great abuses of others, of whom the Prophet <hi>Ezekiel</hi> speaks (saying) will ye pollute me among my people for handfuls of barley, and for peeces of bread, to slay the soules that should not die, and to save the soules alive that should not live, <hi>Ezekiel</hi> 13.19. and as the Prophet <hi>Malachy</hi> speakes, now we
+<pb n="3" facs="tcp:176976:3"/>call the proud happie, yea they that worke wickednesse are set up, <hi>Malachy,</hi> 3.15. It is not long since we might have taken part with Saint <hi>Austin</hi> in his lamentation,<note place="margin">In his 119. Epist.</note> nay the time of comfort doth now consist chiefly in hope; This thing saith he, doth grieve mee, that so many things wholsomely commanded in the holy Scriptures, are not regarded, and that our times are full of so many presumptions, that he hath beene more sharply punished which with his bare feet hath touched the earth in the octavas, then the drunkards &amp;c.</p>
+            <p n="2">II. They have also been movers of troubles in the State, and that both with our neighbour nations, and also among our selves.</p>
+            <p>
+               <note n="1" place="margin">1. How they have troubled the State.</note>By troubles with our neighbour nations; in so much that had not God been mercifull to us, our land ere this might have been a wofull desolation, with our streets full of blood, and our fields full of dead unburied Carkasses, whilst wee having our Swords emburde in the blood of our neighbouring united nation of <hi>Scotland,</hi> and their swords also persed into our sides; all being the subjects of one King: In the midst of this wofull tragedy, we might have beene all surpri<g ref="char:EOLhyphen"/>sed by a forraine enemy; witnesse that great Spanish fleet, with all their munition, wives, and children: But ever blessed bee our good God who hath preserved us.</p>
+            <p>
+               <note n="2" place="margin">2.</note>By troubles amongst our selves, by compelling to ungodly, and un<g ref="char:EOLhyphen"/>lawfull oathes, by abuses in their unjust proceedings in their Courts; but we now hope to see these cockatrice egges crushed to peeces.</p>
+            <p>Excellent is that saying of <hi>Cyrill,</hi> we travill saith he,
+<note place="margin">7. Epistle to Theodosius.</note> earnestly in this thing above the rest, the Ecclesiasticall estate may remaine sure, in such sort as is seemely for the glory of God, and fit for our times, that it may continue in peace and tranquility, by common consent without variance, that it may be quiet in Ecclesiasticall matters, that godly religion may be preserved, and that the life of such as are cho<g ref="char:EOLhyphen"/>sen into the Clergy and Priesthood, may be cleare from scandall.</p>
+            <p>Let us but consider what the issue of their proceedings might pro<g ref="char:EOLhyphen"/>duce; should they have gone on in bringing Popish ceremonies,
+<note place="margin">The end of their Ceremo<g ref="char:EOLhyphen"/>nies.</note> su<g ref="char:EOLhyphen"/>perstition and Idolatry into the Church, as may appeare by their jestures, by their ornaments and by their actions.</p>
+            <p>
+               <note n="1" place="margin">1.</note>By their jestures, in their bowings, and adorations before the Al<g ref="char:EOLhyphen"/>ter, with their faces towards the East, or at the name of Jesus, as if God was inclosed in the Alter; as if the East were fuller of Gods Maje<g ref="char:EOLhyphen"/>sty then the West, or other parts: and as if the name Jesus, was above or before the name of <hi>Iehovah,</hi> all which is Idolatry and superstitious.</p>
+            <pb n="4" facs="tcp:176976:4"/>
+            <p>
+               <note n="2" place="margin">2.</note>By their ornaments? In that they would make us beleeve that ho<g ref="char:EOLhyphen"/>linesse is in the Surplis, Cap, Tippit, or Cope, above other garments: that the Altar is holier then the rest of the Temple; &amp; that the Temple wales make the people holy. And that these ceremonies our Lordly Bishops and Prelates would have us to worship God, which is no<g ref="char:EOLhyphen"/>thing but Idolatry and superstition: therefore saith the Prophet <hi>Iere<g ref="char:EOLhyphen"/>miah,</hi> Trust yee not in lying words saying, the Temple of the Lord, the Temple of the Lord, are these, <hi>Ier.</hi> 7.4.</p>
+            <p>
+               <note n="3" place="margin">3.</note>By their actions. In that they assume to themselves Lordly Titles, and rule over other Ministers; which our Saviour Christ reprooveth, saying; If any man desire to be first, the same shall be last of all, and servant of all, <hi>Marke</hi> 9.35. This indeed is the practise of that great Idol of <hi>Rome</hi> the Pope. But oh that all our Lordly Bishops, and idle Prelates would call to mind that saying of Saint <hi>Austin,</hi>
+               <note place="margin">In his 7. Homily.</note>O brethren most deare (saith he) If the best of men at the last day of Judgement shall scarse be able to give an account for themselves, what shall be<g ref="char:EOLhyphen"/>come of our idle Lordly Bishops, and dumb Prelates; at whose hands so many soules shall then be required?</p>
+            <p>These superstitious ceremonies belong to <hi>Rome,</hi> that great whore of <hi>Babylon;</hi> but our reformed Churches cannot digest them: It hath been found recorded in the ancient records of <hi>London,</hi> remaining in <hi>Guild-Hall,</hi> that when King <hi>Lucius</hi> sent to <hi>Rome</hi> to <hi>Elutherius</hi> the Pope, to know the customes, lawes there established; that so the same might be practised here in <hi>England,</hi> he received this answer: yea may saith he, reject the lawes of <hi>Rome,</hi> but the lawes of God can yee not reject; yee have received saith he, (through the grace of God) the lawes of God and the Doctrine of th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> faith of Christ into your Kingdome; you have the old &amp; new Testament in your Realme; take out of them by the grace of God, &amp; advise of your selves a law, &amp; by that law, through Gods assurance rule your Realme. But bee you Gods Vicar in that Kingdome, but blessed be the Lord who hath put it into the Kings heart so to do, without sending to <hi>Rome,</hi> for should we now have sent to <hi>Rome</hi> for lawes or discipline, we should have found <hi>Elutherius</hi> dead, and instead of his grave counsell, nothing but Idolatry and supersti<g ref="char:EOLhyphen"/>tion: and if our Lordly Bishops had not such counsell from <hi>Rome,</hi> I wonder how they met with all their Romish Ceremonies: but now happy is this our Kingdome, fince our gracious King doth now ad<g ref="char:EOLhyphen"/>vise with his subjects in calling that honourable and happy assembly of Parliament; to establish the lawes of this our Realme, according to
+<pb n="5" facs="tcp:176976:4"/>the Lawes of God written in his holy word, and that since the Pa<g ref="char:EOLhyphen"/>stors are become brutish, and have not sought the Lord, <hi>Ier.</hi> 10.21. our gracious King himselfe is the true Vicar of God, and maintainer of his holy Lawes; allowing no Lawes in his Kingdome but the Lawes of God.</p>
+            <p>Yet albeit these prophane Prelates,<note place="margin">In his Co<g ref="char:EOLhyphen"/>ment on Isay 13.13.</note> (as <hi>Calvin</hi> saith) would turne and withdraw us from under this government, yet will we hold our selves fast unto it, because we assuredly know our selves to belong to it; and leave them to your Majesties further consideration, and to the high and Honorable assembly of Parliament.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
